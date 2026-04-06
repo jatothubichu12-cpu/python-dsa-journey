@@ -15,7 +15,7 @@
 
 | Phase | Topic | Status |
 |-------|-------|--------|
-| Phase 1 | Variables & Data Types | 🔄 In Progress |
+| Phase 1 | Variables & Data Types | ✅ Done |
 | Phase 1 | Conditionals | ⬜ Not Started |
 | Phase 1 | Loops | ⬜ Not Started |
 | Phase 1 | Functions | ⬜ Not Started |
@@ -40,14 +40,15 @@
 | Day | Date | Topic | Problems Solved |
 |-----|------|-------|----------------|
 | Day 1 | Apr 6, 2026 | Variables | swap_two_numbers, simple_calculator, area_of_circle |
+| Day 2 | Apr 7, 2026 | Conditionals | odd_even, grade_calculator |
 
 ---
 
 ## 📈 Stats
 - 🗓️ Start Date: April 6, 2026
-- ✅ Problems Solved: 0
-- 🔥 Current Streak: 0 days
-- 📁 Topics Completed: 0 / 17
+- ✅ Problems Solved: 3
+- 🔥 Current Streak: 1 days
+- 📁 Topics Completed: 1 / 17
 
 ---
 
