@@ -16,8 +16,8 @@
 | Phase | Topic | Status |
 |-------|-------|--------|
 | Phase 1 | Variables & Data Types | ✅ Done |
-| Phase 1 | Conditionals | ⬜ Not Started |
-| Phase 1 | Loops | ⬜ Not Started |
+| Phase 1 | Conditionals | ✅ Done |
+| Phase 1 | Loops | ⬜ ongoing |
 | Phase 1 | Functions | ⬜ Not Started |
 | Phase 1 | Recursion | ⬜ Not Started |
 | Phase 1 | Lists | ⬜ Not Started |
@@ -40,7 +40,7 @@
 | Day | Date | Topic | Problems Solved |
 |-----|------|-------|----------------|
 | Day 1 | Apr 6, 2026 | Variables | swap_two_numbers, simple_calculator, area_of_circle |
-| Day 2 | Apr 7, 2026 | Conditionals | odd_even, grade_calculator |
+| Day 2 | Apr 9, 2026 | Conditionals | odd_even, grade_calculator, largest_of_three, pos_neg_zero, voting_eligibility |
 
 ---
 
